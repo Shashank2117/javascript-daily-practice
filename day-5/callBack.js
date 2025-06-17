@@ -1,5 +1,4 @@
 ﻿//call back hell
-// // call back hell
 
 function step1(fn) {
     setTimeout(()=>{
