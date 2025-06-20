@@ -1,0 +1,32 @@
+/* todo styling */
+
+body{
+    background-color: rgb(75, 105, 99);
+    color: white;
+    justify-items: center;
+    align-content: center;
+}
+div{
+    /* border: 1px solid; */
+    width: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+input{
+    width: 70%;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+button{
+    width: 20%;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+ul{
+    font-size: 20px;
+}
+li{
+    padding: 5px;
+}
