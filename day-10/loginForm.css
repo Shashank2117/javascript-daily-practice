@@ -1,0 +1,26 @@
+/* Login form styling */
+
+body{
+    background: linear-gradient(to right, rgb(198, 198, 250), rgb(255, 212, 212));
+    justify-items: center;
+}
+span{
+    /* margin-left: 47%; */
+    font-size: 20px;
+    font-weight: 800;
+}
+
+fieldset{
+    width: 50%;
+    border: none;
+    margin-top: 30px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px black;
+    padding: 20px;
+}
+form input{
+    border: 1px solid black;
+    border-radius: 2px;
+    padding-left: 10px;
+
+}
