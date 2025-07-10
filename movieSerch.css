@@ -1,0 +1,55 @@
+/* movie serching web  */
+
+body{
+    background: linear-gradient(to right, rgb(58, 219, 255), rgb(255, 145, 163));
+}        
+        
+h1{
+    text-align: center;
+}
+input{
+    width: 450px;
+    height: 35px;
+    border: 1px solid black;
+    box-shadow: 0px 0px 20px gray;
+    border-radius: 6px;
+    display: block;
+    margin: 10px auto;
+    font-size: 15px;
+    padding-left: 10px;
+}
+button{
+    width: 120px;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: block;
+    margin: 10px auto;
+    font-size: 22px;
+}
+button:hover{
+    background-color: rgb(242, 247, 196);
+}
+
+img{
+    width: 200px;
+    height: 250px;
+    margin: 10px;
+}
+
+#list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+figure{
+    border: 2px solid black;
+}
+
+h2{
+    text-align: center;
+    font-size: 22px ;
+    font-family: monospace;
+}
+
