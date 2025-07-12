@@ -1,4 +1,4 @@
-// Synchronous and Asynchronous
+
 
 setTimeout(()=>{
     console.log("hello");
