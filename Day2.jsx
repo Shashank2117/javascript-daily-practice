@@ -1,4 +1,3 @@
-// day 2
 import React, { useState } from 'react'
 
 const Day2 = () => {
