@@ -12,7 +12,6 @@ const Day2 = () => {
         console.log(input);
         
     }
-    
   return (
     <div>
         <fieldset>
