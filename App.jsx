@@ -14,7 +14,7 @@ import Day4 from './Day4'
   //   console.log(marks);
   // }
 
-  // const [marks,       setmarks] = useState(80);
+  // const [marks,       setmarks] = useState(80)
   // //    variable      function            value
 
 
