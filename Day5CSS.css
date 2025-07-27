@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(to right, skyBlue, pink);
+    /* display: grid; */
+    align-content: center;
+}
+
+#oneHead{
+    margin-bottom: 15px;
+    margin-left: 430px;
+}
+
+#parent{
+    display: flex;
+    flex-wrap: wrap;
+}
+#oneDiv{
+    background-color: whitesmoke;
+    height: 130px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 8px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 10px black;
+    padding: 10px;
+    display: inline-block;
+}
