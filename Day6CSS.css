@@ -1,0 +1,12 @@
+body{
+    background:linear-gradient(to right, rgba(195, 0, 255, 0.711), rgb(62, 192, 243));
+}
+
+#navbar{
+    width: 100%;
+    height: 90px;
+    border: 1px solid black;
+    /* background-color: antiquewhite; */
+    background: transparent;
+    filter: blur(1.5px);
+}
