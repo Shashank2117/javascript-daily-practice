@@ -1,0 +1,22 @@
+body{
+    background:linear-gradient(to right, rgb(107, 107, 252),pink)
+}
+
+input{
+    font-size:17px;
+    margin-left:35%;
+    height:40px;
+    width:300px;
+    border:none;
+    box-shadow:2px 2px 15px black;
+    padding-left:10px;
+}
+
+button{
+    font-size:17px;
+    height:40px;
+    width:100px;
+    box-shadow:2px 2px 15px black;
+    margin-left:12px;
+
+}
