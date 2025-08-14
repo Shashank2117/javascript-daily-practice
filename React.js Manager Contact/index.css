@@ -1,0 +1,68 @@
+body{
+  background-color: whitesmoke;
+}
+#cm{
+  justify-self: center;
+  color: blue;
+  box-shadow: 0px 0px 10px black;
+  border-radius: 8px;
+  padding: 0px 8px 0px 8px;
+}
+#bt1{
+  padding: 6px 10px 6px 10px;
+  background-color: rgba(0, 106, 255);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  margin: 0px 0px 10px 0px;
+}
+#formDiv{
+  /* border: 1px solid black; */
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 12px black;
+  margin: 8px;
+}
+input{
+  padding-left: 10px;
+  height: 25px;
+  width: 300px;
+  border: 1px solid black;
+  /* box-shadow: 0px 0px 10px black; */
+  border-radius: 3px;
+  margin: 4px;
+}
+#bt2{
+  background-color: rgba(0, 106, 255);
+  padding: 5px;
+  border: none;
+  color: white;
+  border-radius: 6px;
+}
+#cardOuter{
+  height: 240px;
+  width: 200px;
+  box-shadow: 0px 0px 14px black;
+  margin: 10px 20px 10px 20px;
+  padding: 5px 10px 10px 14px;
+}
+
+.btn{
+  height: 30px;
+  border: none;
+  color: white;
+  margin-left: 10px;
+  margin-top: 25px;
+}
+#ebtn{
+  background-color: rgba(2, 158, 2, 0.795);
+}
+#dbtn{
+  background-color: rgba(181, 0, 0, 0.799);
+}
+
+
+#cardContainer{
+  display: flex;
+  flex-wrap: wrap;
+}
