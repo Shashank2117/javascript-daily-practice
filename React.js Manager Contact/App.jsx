@@ -19,9 +19,6 @@ const App = () => {
     setShow(false);
     console.log(contacts);
   };
-// 
-
-
 
   return (
     <>
