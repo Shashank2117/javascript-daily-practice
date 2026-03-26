@@ -15,5 +15,3 @@ btn.addEventListener('click', ()=>{
         li.remove()
     })
 })
-
-// })
