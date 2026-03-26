@@ -13,9 +13,6 @@ inputJs.addEventListener('input', (e)=>{
    // to print on screen
     h1Js.innerText = e.target.value;    
 })
-
-
-
 //form on submit
 
 let h3Js = document.querySelector('h3')
